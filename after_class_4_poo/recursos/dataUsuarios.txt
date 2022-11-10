@@ -1,0 +1,3 @@
+operador|developer@gmail.com|asd.456|Derick|Carcamo
+verificador|elbarto@gmail.com|qwerty123|Bartolomeo|Simpsom
+autorizador|bender@gmail.com|qwerty123|Bender|Rodriguez
